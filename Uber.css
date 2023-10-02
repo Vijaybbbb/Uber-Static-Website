@@ -1,0 +1,659 @@
+body{
+    margin: 0px;
+}
+.headder{
+    width: 100%;
+    background: black;
+    height: 70px;
+}
+.headderLeft{
+    width: 72%;
+    float: left;
+}
+.headderRight{
+    
+    float: left;
+}
+.td1{
+    padding-top: 16px;
+}
+#UberLogo{
+    text-decoration: none;
+    margin-left: 95px;
+    padding: 36px;
+    color: #FFFFFF;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    letter-spacing:-1px
+}
+.Bt1{
+    background: black;
+    color: white;
+    border-color: black;
+    border-width: inherit;
+    border-radius: 30px;
+    transition-duration: 517ms;
+    width: 79px;
+    height: 30px;
+    font-weight: 600;
+
+}
+.Btp{
+    background: black;
+    color: white;
+    border-color: black;
+    border-width: inherit;
+    border-radius: 30px;
+    transition-duration: 517ms;
+    width: 104px;
+    height: 30px;
+    font-weight: 600;
+
+}
+.Btp:hover{
+    background: #454242;
+}
+.Bt1:hover{
+    background: #454242;
+}
+.Bt2{
+    background: black;
+    color: white;
+    border-color: black;
+    border-width: inherit;
+    border-radius: 30px;
+    transition-duration: 517ms;
+    width: 86px;
+    height: 30px;
+    font-weight: 600;
+
+}
+.Bt2:hover{
+    background: #454242;;
+}
+.short1{
+    position: absolute;
+    height: 17px;
+    left: 1071px;
+    top: 23px;
+}
+.short2{
+    position: absolute;
+    height: 17px;
+    left: 1149px;
+    top: 22px;
+}
+
+
+
+.SignBt{
+    background: white;
+    color: black;
+    border-color: black;
+    border-width: inherit;
+    border-radius: 30px;
+    transition-duration: 517ms;
+    width: 86px;
+    height: 30px;
+}
+.SignBt:hover{
+   background:  rgb(218, 218, 218);;
+}
+#img{
+    height: 641px;
+}
+.whitebox{
+    
+    position: absolute;
+    top: 157px;
+    left: 176px;
+    width: 555px;
+    height: 461px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background: white;
+   
+    
+}
+.div1{
+    background: white;
+    float: left;
+    height: 75px;
+    width: 33%;
+    margin: 0%;
+
+}
+.div2{
+    background: white;
+    float: left;
+    height: 75px;
+    width: 33%;
+    margin: 0%;
+}
+.div3{
+    background: white;
+    float: left;
+    height: 75px;
+    width: 33%;
+    margin: 0%;
+}
+.Text{
+    
+    color: black;
+    padding-top: 74px;
+    font-size: 12px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+}
+#img1{
+    height: 26px;
+    margin-top: 13px;
+}
+#img2{
+    height: 26px;
+    margin-top: 11px;
+}
+#img3{
+    height: 26px;
+    margin-top: 12px;
+}
+.whitebody{
+    height: 187px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    margin-top: 54px;
+    padding-top: 58px;
+}
+#Text2{
+    color: black;
+    margin-left: -134px;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.it1{
+    padding: 12px 20px;
+    font-size: 1rem;
+    border-radius: calc(var(--border-radius) * 1px);
+    text-align: left;
+    width: 367px;
+    border-color: white;
+    background-color: #f8f9f8;
+    border: thin;
+    margin-left: -43px;
+  
+}
+.it1:focus
+{
+    border-color: white;
+    border:thin;
+}
+.it2{
+    padding: 12px 20px;
+    font-size: 1rem;
+    border-radius: calc(var(--border-radius) * 1px);
+    text-align: left;
+    width: 367px;
+    border-color: white;
+    background-color: #f8f9f8;
+    border: thin;
+    margin-left: -43px;
+    margin-top: 8px;
+  
+}
+.it2:focus
+{
+    border-color: white;
+    border:thin;
+}
+.placeholder{
+    height: 157px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    margin-top: -100px;
+}
+#buttons{
+    background: rgb(255, 255, 255);
+    height: 75px;
+    width: 100%;
+}
+#Request{
+    background: black;
+    color: white;
+    border-radius: 4px;
+    width: 100px;
+    font-size: 10px;
+    height: 38px;
+    font-weight: 600;
+    margin-left: -259px;
+}
+#Request:hover{
+    background: #3e3c3c;
+}
+#Schedule{
+    background: rgb(228 227 227);
+    color: black;
+    border-radius: 4px;
+    width: 110px;
+    font-size: 10px;
+    height: 38px;
+    font-weight: 600;
+    border: thin;
+    margin-left: 14px;
+}
+#Schedule:hover{
+    background: rgb(218, 218, 218);
+}
+.headderimage2{
+    height: 268px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    margin: 0px;
+}
+#dubai{
+    width: 100%;
+    height: 100%;
+    margin-top: -4px;
+}
+.headderimage3{
+    height: 705px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    margin: 0px;
+}
+#SPtext1{
+    position: absolute;
+    color: black;
+    top: auto;
+    left: 7pc;
+    margin-top: 54px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+}
+#SPtext2{
+    position: absolute;
+    color: black;
+    top: auto;
+    left: 7pc;
+    margin-top: -160px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+   
+}
+.Getstarted{
+    position: absolute;
+    top: auto;
+    color: white;
+    border-radius: 4px;
+    width: 100px;
+    font-size: 10px;
+    height: 33px;
+    font-weight: 600;
+    left: 116px;
+    margin-top: -144px;
+    background: black;
+}
+.Getstarted:hover{
+    background: #3e3c3c;
+}
+#SPtext3{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 33px;
+    font-weight: 500;
+    line-height: 44px;
+    margin-left: 168px;
+    position: absolute;
+    margin-top: 55px;
+}
+.innerdiv
+{
+    float: left;
+}
+.innerimg{
+    width: 536px;
+    padding: -79px;
+    margin-left: 60px;
+    margin-top: 135px;
+    position: relative;
+    left: 7pc;
+}
+.SPtext4{
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 600;
+    position: absolute;
+    top: auto;
+    padding-top: 18px;
+}
+.para{
+    margin-left: 170px;
+    font-size: 16px;
+    font-family: sans-serif;
+    position: absolute;
+    top: auto;
+    padding-top: 30px;
+    line-height: 25px;
+    color: #7b7676;
+}
+.headderimage4{
+    background: rgb(255, 255, 255);
+    width: 100%;
+    height: 377px;
+}
+.headderimage4inner1{
+    float: left;
+    width: 319px;
+    height: 300px;
+    margin-left: 173px;
+
+}
+.headderimage4inner2{
+    float: left;
+    width: 302px;
+    height: 300px;
+    margin-left: 22px;
+}
+.headderimage4inner3{
+    float: left;
+    width: 263px;
+    height: 300px;
+    margin-left: 877px;
+    position: absolute;
+}
+.TPlabel{
+    font-size: 19px;
+    font-family: sans-serif;
+}
+.content{
+    font-family: sans-serif;
+    font-size: 14px;
+    line-height: 23px;
+    color: #7b7676;
+}
+.alllink{
+    
+    color: #1b1919;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    
+}
+.alllink:hover{
+    color:#7b7676
+}
+.Ridewithuber{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 33px;
+    font-weight: 500;
+    line-height: 44px;
+    margin-left: -7px;
+    position: absolute;
+    margin-top: 30px;
+}
+.headderimage5{
+    width: 100%;
+    height: 450px;
+    background: rgb(255, 255, 255);
+}
+
+.vehicles1{
+    height: 200px;
+    width: 50%;
+    background: rgb(255, 255, 255);
+    float: left;
+    position: absolute;
+    margin-left: 188px;
+}
+.vehicles2{
+    height: 200px;
+    width: 50%;
+    background: rgb(255, 255, 255);
+    float: left;
+    position: absolute;
+    margin-left: 736px;
+}
+.vehicles3{
+    height: 200px;
+    width: 50%;
+    background: rgb(255, 255, 255);
+    float: left;
+    position: absolute;
+    margin-top: 194px;
+    margin-left: 188px;
+
+}
+.vehicles4{
+    height: 200px;
+    width: 50%;
+    background: rgb(255, 255, 255);
+    float: left;
+    position: absolute;
+    margin-left: 736px;
+    margin-top: 194px;
+}
+.vehicleimg{
+    height: 151px;
+}
+.vehiclehead{
+    position: absolute;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-top: 21px;
+    margin-left: 9px;
+}
+.vehicleinfo{
+    position: absolute;
+    font-size: 13px;
+    font-family: sans-serif;
+    margin-left: 161px;
+    margin-top: -108px;
+    font-family: sans-serif;
+    line-height: 20px;
+    color: #7b7676;
+    
+}
+.headderimage6{
+    background: #f3f3f3;
+    width: 100%;
+    height: 363px;
+}
+.text3{
+    margin-left: 188px;
+    position: absolute;
+    margin-top: 38px;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.div5{
+    height: 184px;
+    width: 532px;
+    background: white;
+    float: left;
+    margin-left: 190px;
+    margin-top: 93px;
+}
+.div6{
+    height: 184px;
+    width: 532px;
+    background: white;
+    float: left;
+    margin-left: 190px;
+    margin-top: 93px;
+    position: absolute;
+    left: 562px;
+}
+.img4{
+    height: 141px;
+    margin: 20px
+}
+.text6{
+    position: absolute;
+    left: 372px;
+    margin-top: 54px;
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.text7{
+    position: absolute;
+    left: 184px;
+    margin-top: 54px;
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.para1{
+    position: absolute;
+    left: 371px;
+    margin-top: -95px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #7b7676;
+}
+.para2{
+    position: absolute;
+    left: 186px;
+    margin-top: -95px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #7b7676;
+}
+.headderimage7{
+    background: black;
+    width: 100%;
+    height: 866px;
+}
+#Uberlast{
+    text-decoration: none;
+    margin-left: 151px;
+    padding: 36px;
+    color: #FFFFFF;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    letter-spacing: -1px;
+    position: absolute;
+    margin-top: 56px;
+}
+#Visit{
+
+    text-decoration: none;
+    margin-left: 151px;
+    padding: 36px;
+    color: #FFFFFF;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    letter-spacing: -1px;
+    position: absolute;
+    margin-top: 107px;
+}
+.tablelast{
+    margin-top: 177px;
+    margin-left: 183px;
+    width: 941px;
+    line-height: 38px;
+}
+.plast{
+    color: white;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+.link0{
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+.link0:hover{
+    color: #a4a1a1;
+}
+.circle{
+    width: 5px;
+    height: 6px;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 38px;
+    position: absolute;
+    margin-top: -141px;
+    margin-left: 66px;
+}
+.line{
+    width: 2px;
+    height: 38px;
+    background-color: #1b1919;
+    position: absolute;
+    margin-top: -131px;
+    margin-left: 68px;
+}
+.sqaure{
+    width: 4px;
+    height: 5px;
+    background-color: transparent;
+    border: 1px solid black;
+    position: absolute;
+    margin-left: 67px;
+    margin-top: -89px;
+}
+.lastb{
+    background-color: #000000;
+    border: thin;
+    width: 43px;
+    height: 28px;
+    border-radius: 6px;
+    transition-duration: 517ms;
+}
+.lastimg{
+    height: 26px;
+}
+.tablelast2{
+    margin-top: 37px;
+    margin-left: 183px;
+    width: 527px;
+   
+}
+.lastb:hover{
+    background: #454242;
+}
+
+.lang1{
+    width: 100px;
+    border-radius: 6px;
+    transition-duration: 517ms;
+    color: white;
+    background: black;
+    border: thin;
+    font-family: sans-serif;
+    height: 33px;
+}
+.lang2{
+    width: 164px;
+    border-radius: 6px;
+    transition-duration: 517ms;
+    color: white;
+    background: black;
+    border: thin;
+    font-family: sans-serif;
+    height: 33px;
+}
+.lang1:hover{
+    background: #454242;
+}
+.lang2:hover{
+    background: #454242;
+}
+.lasttable{
+    position: absolute;
+    left: 1100px;
+    margin-top: -27px;
+}
+.imagedown{
+    height: 37px;
+    margin-top: 70px;
+    position: relative;
+    left: 183px;
+}
+
